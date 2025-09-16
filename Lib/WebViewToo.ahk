@@ -25,7 +25,7 @@
 ;///////////////////////////////////////////////////////////////////////////////////////////
 
 #Requires AutoHotkey v2
-#Include WebView2.ahk
+#Include <System/WebView2/WebView2>
 
 class WebViewGui extends Gui {
     /**
